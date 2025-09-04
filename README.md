@@ -32,4 +32,4 @@ This project presents a simple chatbot that:
 1. Clone this repository:
    ```bash
    git clone https://github.com/lekslen/Python-Chatbot.git
-   cd chatbot-with-python
+   cd Python-Chatbot
