@@ -31,5 +31,5 @@ This project presents a simple chatbot that:
 ## 🛠 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/lekslen/chatbot-with-python.git
+   git clone https://github.com/lekslen/Python-Chatbot.git
    cd chatbot-with-python
